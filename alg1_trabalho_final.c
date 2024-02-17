@@ -9,7 +9,7 @@ AUTORES
     Mateus de Melo Camargo   RA: 2564548
 
 DISCIPLINA E TURMA
-    Engenhraia de Computação
+    Engenharia de Computação
     Algoritmos 1 - EC41A_C11
 
 DOCENTE
