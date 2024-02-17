@@ -41,7 +41,7 @@ BIBLIOTECAS UTILIZADAS
         labs
     
 NOTAS
-    O trabalho foi feito em um prazo de um mês, com limitações propostas pelo professor. Assim, as únicas bibliotecas permitidas foram as 4 usadas no projeto final. Muitas funções e algoritmos não puderam ser implementados.
+    O trabalho foi feito em um prazo de um mês, com limitações por minha parte, já que foi meu primeiro projeto nesse porte em c e outras propostas pelo professor. Assim, as únicas bibliotecas permitidas foram as 4 usadas no projeto final. Muitas funções e algoritmos não puderam ser implementados.
     Embora eu tenha o costume de nomear variáveis e escrever comentários em inglês, nesse trabalho tudo foi feito em português, já que tornava mais fácil a comunicação entre os membros do grupo
 
     As constantes:
