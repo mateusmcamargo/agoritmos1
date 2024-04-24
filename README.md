@@ -5,7 +5,7 @@
 
 [código no online gdb](https://onlinegdb.com/tehdHjZwEG)
 
-Projeto pessoal que emula uma comanda de um estabelecimento como um restaurante, cantina ou conveniência.
+Projeto pessoal que emula a comanda de um estabelecimento como um restaurante, cantina ou conveniência.
 
 ### funcionalidades:
 
