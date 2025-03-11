@@ -1,24 +1,11 @@
 # agoritmos-1
 > Códigos foram feitos por mim durante a disciplina Algoritmos 1, na faculdade
 
-## restaurante.c
-
-[código no online gdb](https://onlinegdb.com/tehdHjZwEG)
-
-Projeto pessoal que emula a comanda de um estabelecimento como um restaurante, cantina ou conveniência.
-
-### funcionalidades:
-
-> 1. Catálogo de itens
-> 2. Abertura e cadastro de itens no pedido
-> 3. Fechamento de pedidos
-> 4. Fechamento de caixa
-
 ## trabalho-final.c
 
 [código no online gdb](https://onlinegdb.com/XE-bYuxAt)
 
-Trabalho final da disciplina, consiste em um programa que simula investimentos financeiros.
+Trabalho final da disciplina, consiste em um programa que simula investimentos financeiros, com operações de busca, edição, criação e remoção de objetos, validação de dados e tratamento de erros
 
 ### funcionalidades:
 
@@ -31,3 +18,17 @@ Trabalho final da disciplina, consiste em um programa que simula investimentos f
 > 4. Exibição extrato do cliente com busca por CPF
 > 5. Montante total de investimentos
 > 6. Lista de clientes por ordem alfabética
+
+
+## restaurante.c
+
+[código no online gdb](https://onlinegdb.com/tehdHjZwEG)
+
+Projeto pessoal que emula a comanda de um estabelecimento como um restaurante, cantina ou conveniência.
+
+### funcionalidades:
+
+> 1. Catálogo de itens
+> 2. Abertura e cadastro de itens no pedido
+> 3. Fechamento de pedidos
+> 4. Fechamento de caixa
